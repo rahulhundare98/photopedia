@@ -1,0 +1,33 @@
+*{
+	font-family: Montserrat;
+}
+#services_offered{
+	padding: 20px;
+}
+
+.services_offered{
+	padding: 25px;
+}
+
+.Galley{
+	padding: 25px;
+}
+
+.Button{
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+footer{
+	padding: 20px;
+	background-color: black;
+	color: #FFFFFF;
+}
+ .link{
+ 	color: white;
+ }
+
+
+ul{
+	list-style: none;
+}
